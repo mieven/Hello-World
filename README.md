@@ -17,6 +17,7 @@ First Repository
 ~~Strikethrough~~
 ***Bold and Italic***
 <sub> subscript </sub>
+<sup> superscript </sup>
 1. Ordered List
 2. Ordered List 2
 3. Ordered List 3
