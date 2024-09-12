@@ -5,7 +5,7 @@ First Repository
 - [Syntax Options](#Syntax-Options)
 - [Interest](#Interests)
 
-##Syntax Options
+## Syntax Options
 
 
-##Interests
+## Interests
