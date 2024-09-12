@@ -9,7 +9,7 @@ First Repository
 
 
 ## Project
-*Hello World*
+*"Hello World"*
 
 ### Syntax Options
 **Bold Text**
