@@ -1,9 +1,9 @@
 # Hello-World
 First Repository 
 ## Table of Contents
-- [Project Title](Project Title)
+- [Project Title](#Project-Title)
 - [Syntax Options](#Syntax-Options)
-- [Description](Description)
+- [Description](#Description)
 - [Interest](#Interests)
 
 ## Project Title
