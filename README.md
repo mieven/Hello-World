@@ -2,8 +2,8 @@
 First Repository 
 ## Table of Contents
 
-- [Syntax Options].(#Syntax-Options)
-- [Interest].(#Interests)
+- [Syntax Options](#Syntax-Options)
+- [Interest](#Interests)
 
   ##Syntax Options
 
