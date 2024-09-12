@@ -16,7 +16,7 @@ First Repository
 *Italic Text*
 ~~Strikethrough~~
 ***Bold and Italic***
-<subscript>
+<sub> subscript </sub>
 1. Ordered List
 2. Ordered List 2
 3. Ordered List 3
