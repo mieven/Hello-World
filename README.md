@@ -14,6 +14,9 @@ First Repository
 ### Syntax Options
 **Bold Text**
 *Italic Text*
+~~Strikethrough~~
+***Bold and Italic***
+<subscript>
 1. Ordered List
 2. Ordered List 2
 3. Ordered List 3
