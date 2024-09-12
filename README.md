@@ -1,12 +1,14 @@
 # Hello-World
 First Repository 
 ## Table of Contents
-- [Project Title](#Project-Title)
+- [Project](#Project)
 - [Syntax Options](#Syntax-Options)
 - [Description](#Description)
+- [About Me](#About-Me)
 - [Interest](#Interests)
 
-## Project Title
+
+## Project
 *Hello World*
 
 ### Syntax Options
@@ -19,5 +21,14 @@ First Repository
 ### Description
 I am practicing using GitHub to feel more comforatable with make repositories and how they work. 
 
-## Interests
-Hello, I am Mason Even currently studying **Finance and Business Analyitics & Informations Systems** at the University of Iowa. A few of my interests are spending time with **Family** and **Friends**, I also love to **Golf**, I like to play **Pickleball**, overall I just love being **Outside** enjoying the fresh air and sun. 
+
+## About Me
+Hello, I am Mason Even currently studying **Finance and Business Analyitics & Informations Systems** at the University of Iowa. I am also the Treasurer for the Iowa Men's Club Rugby team.
+
+### Interests
+- Spending time with **Friends**
+- Spending time with **Family**
+- **Golf**
+- **Pickleball**
+- **Watching Movies**
+- Being **Outside** enjoying the fresh air
